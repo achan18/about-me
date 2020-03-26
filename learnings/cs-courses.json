@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Intro to Operating Systems",
+        "url":"http://courses.cs.washington.edu/courses/cse451/",
+        "courseId":"CSE 461",
+        "quarter":"Winter 2020"
+    },
+    {
+        "name":"Intro to Data Management",
+        "url":"http://courses.cs.washington.edu/courses/cse344/",
+        "courseId":"CSE 344",
+        "quarter":"Winter 2020"
+    },
+    {
+        "name":"Intro to Computer Communication Networks",
+        "url":"http://courses.cs.washington.edu/courses/cse461/",
+        "courseId":"CSE 461",
+        "quarter":"Autumn 2019"
+    },
+    {
+        "name":"Intro to Algorithms",
+        "url":"http://courses.cs.washington.edu/courses/cse421/",
+        "courseId":"CSE 421",
+        "quarter":"Autumn 2019"
+    },
+    {
+        "name":"Machine Learning",
+        "url":"http://courses.cs.washington.edu/courses/cse446/",
+        "courseId":"CSE 446",
+        "quarter":"Spring 2019"
+    },
+    {
+        "name":"Systems Programming",
+        "url":"http://courses.cs.washington.edu/courses/cse333/",
+        "courseId":"CSE 333",
+        "quarter":"Spring 2019"
+    },
+    {
+        "name":"Hardware / Software Interface",
+        "url":"http://courses.cs.washington.edu/courses/cse351/",
+        "courseId":"CSE 351",
+        "quarter":"Winter 2019"
+    },
+    {
+        "name":"Software Design & Implementation",
+        "url":"http://courses.cs.washington.edu/courses/cse331/",
+        "courseId":"CSE 331",
+        "quarter":"Spring 2019"
+    },
+    {
+        "name":"Foundations of Computing II (Statistics)",
+        "url":"http://courses.cs.washington.edu/courses/cse312/",
+        "courseId":"CSE 312",
+        "quarter":"Autumn 2018"
+    },
+    {
+        "name":"Data Structures & Parrallelism",
+        "url":"http://courses.cs.washington.edu/courses/cse332/",
+        "courseId":"CSE 332",
+        "quarter":"Autumn 2018"
+    },
+    {
+        "name":"Foundations of Computing I (Discrete Math)",
+        "url":"http://courses.cs.washington.edu/courses/cse311/",
+        "courseId":"CSE 311",
+        "quarter":"Spring 2018"
+    },
+    {
+        "name":"Programming Languages",
+        "url":"http://courses.cs.washington.edu/courses/cse341/",
+        "courseId":"CSE 341",
+        "quarter":"Spring 2018"
+    },
+    {
+        "name":"Web Programming",
+        "url":"http://courses.cs.washington.edu/courses/cse154/",
+        "courseId":"CSE 154",
+        "quarter":"Spring 2018"
+    },
+    {
+        "name":"Computer Programming II (Intro to Java II)",
+        "url":"http://courses.cs.washington.edu/courses/cse143/",
+        "courseId":"CSE 143",
+        "quarter":"Winter 2017"
+    },
+    {
+        "name":"Computer Programming I (Intro to Java I)",
+        "url":"http://courses.cs.washington.edu/courses/cse142/",
+        "courseId":"CSE 142",
+        "quarter":"Autumn 2016"
+    }
+]
