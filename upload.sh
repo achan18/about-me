@@ -1,0 +1,1 @@
+scp -r * achan18@vergil.u.washington.edu:public_html/
