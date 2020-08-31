@@ -1,5 +1,17 @@
 [
     {
+        "name":"Intro to Distributed Systems",
+        "url":"http://courses.cs.washington.edu/courses/cse452/",
+        "courseId":"CSE 452",
+        "quarter":"Spring 2020"
+    },
+    {
+        "name":"Database Systems Internals",
+        "url":"http://courses.cs.washington.edu/courses/cse444/",
+        "courseId":"CSE 444",
+        "quarter":"Spring 2020"
+    },
+    {
         "name":"Intro to Operating Systems",
         "url":"http://courses.cs.washington.edu/courses/cse451/",
         "courseId":"CSE 461",
