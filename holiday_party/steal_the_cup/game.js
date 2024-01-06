@@ -1,7 +1,7 @@
 const BODY_PARTS = ["head", "shoulder", "eyes", "ears", "nose", "mouth", "knees", "chest", "butt", "back", "cup"];
 const BODY_PARTS_WO_CUP = BODY_PARTS.slice(0, BODY_PARTS.length-1);
 const INTERVAL_TIME = 1 * 1000;
-const NORMAL_VOICE = 91, CUP_VOICE = 91;
+const NORMAL_VOICE = 1, CUP_VOICE = 1;
 
 // 87 indian english
 // 82 canadian english
@@ -19,7 +19,7 @@ function selectNewBodyPart(options) {
 
 function speakPhrase(phrase) {
     const utterance = new SpeechSynthesisUtterance(phrase);
-    utterance.rate = 5;
+    utterance.rate = 2.5;
     utterance.voice = speechSynthesis.getVoices()[NORMAL_VOICE];
     if (phrase === "cup") {
         console.log(speechSynthesis.getVoices());
