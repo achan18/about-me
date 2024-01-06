@@ -2,8 +2,8 @@ import os
 import random
 import time
 
-MIN_SEC = 5
-MAX_SEC = 10
+MIN_SEC = 30
+MAX_SEC = 60
 
 def mute_system_volume():
     """Mutes the system volume on macOS."""
