@@ -1,7 +1,7 @@
 const BODY_PARTS = ["head", "shoulder", "eyes", "ears", "nose", "mouth", "knees", "chest", "butt", "back", "cup"];
 const BODY_PARTS_WO_CUP = BODY_PARTS.slice(0, BODY_PARTS.length-1);
 const INTERVAL_TIME = 1 * 1000;
-const NORMAL_VOICE = 1, CUP_VOICE = 1;
+const NORMAL_VOICE = 0, CUP_VOICE = 0;
 
 // 87 indian english
 // 82 canadian english
